@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732896725 source:c:\users\62852\documents\kuliah\semester 3\struktur data\tp modul\campusroute\campusroute.cpp
+	"campusroute.h"
+
+1732895905 c:\users\62852\documents\kuliah\semester 3\struktur data\tp modul\campusroute\campusroute.h
+	<iostream>
+
+1732896922 source:c:\users\62852\documents\kuliah\semester 3\struktur data\tp modul\campusroute\main.cpp
+	"campusroute.h"
+
